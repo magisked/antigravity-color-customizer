@@ -1,4 +1,4 @@
-# 🎨 Antigravity Granular Color Customizer (111 Pro Themes)
+# 🎨 Antigravity 2.0 Granular Color Customizer (111 Pro Themes)
 
 > **Глубокая кастомизация интерфейса Google Antigravity с библиотекой из 111 готовых дизайнерских тем, тонкой настройкой 15 зон UI и 60 FPS плавными анимациями.**
 
