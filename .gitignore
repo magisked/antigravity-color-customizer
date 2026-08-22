@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+_temp_extracted/
+app_patched.asar
+*.log
+.DS_Store
