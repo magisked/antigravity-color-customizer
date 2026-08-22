@@ -6,7 +6,7 @@
 [![Platform: Windows | macOS | Linux](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-brightgreen.svg)](#)
 [![Python: 3.x](https://img.shields.io/badge/Python-3.8+-yellow.svg)](#)
 
----
+--
 
 ## ✨ Ключевые возможности
 
